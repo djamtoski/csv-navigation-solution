@@ -1,0 +1,13 @@
+C:\Users\dev0\Downloads\TutorialsUS\TestSolution\TestSolution\bin\Debug\netcoreapp3.1\TestSolution.exe
+C:\Users\dev0\Downloads\TutorialsUS\TestSolution\TestSolution\bin\Debug\netcoreapp3.1\TestSolution.deps.json
+C:\Users\dev0\Downloads\TutorialsUS\TestSolution\TestSolution\bin\Debug\netcoreapp3.1\TestSolution.runtimeconfig.json
+C:\Users\dev0\Downloads\TutorialsUS\TestSolution\TestSolution\bin\Debug\netcoreapp3.1\TestSolution.runtimeconfig.dev.json
+C:\Users\dev0\Downloads\TutorialsUS\TestSolution\TestSolution\bin\Debug\netcoreapp3.1\TestSolution.dll
+C:\Users\dev0\Downloads\TutorialsUS\TestSolution\TestSolution\bin\Debug\netcoreapp3.1\TestSolution.pdb
+C:\Users\dev0\Downloads\TutorialsUS\TestSolution\TestSolution\obj\Debug\netcoreapp3.1\TestSolution.csprojAssemblyReference.cache
+C:\Users\dev0\Downloads\TutorialsUS\TestSolution\TestSolution\obj\Debug\netcoreapp3.1\TestSolution.AssemblyInfoInputs.cache
+C:\Users\dev0\Downloads\TutorialsUS\TestSolution\TestSolution\obj\Debug\netcoreapp3.1\TestSolution.AssemblyInfo.cs
+C:\Users\dev0\Downloads\TutorialsUS\TestSolution\TestSolution\obj\Debug\netcoreapp3.1\TestSolution.csproj.CoreCompileInputs.cache
+C:\Users\dev0\Downloads\TutorialsUS\TestSolution\TestSolution\obj\Debug\netcoreapp3.1\TestSolution.dll
+C:\Users\dev0\Downloads\TutorialsUS\TestSolution\TestSolution\obj\Debug\netcoreapp3.1\TestSolution.pdb
+C:\Users\dev0\Downloads\TutorialsUS\TestSolution\TestSolution\obj\Debug\netcoreapp3.1\TestSolution.genruntimeconfig.cache
